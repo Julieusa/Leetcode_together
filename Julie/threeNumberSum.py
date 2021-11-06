@@ -1,4 +1,5 @@
 ## Three number sum
+
 ## O(n^3)
 def threeNumberSum(array, targetSum):
 	array.sort()
@@ -53,3 +54,4 @@ def threeNumberSumOptimal(array, targetSum):
 # i in range(len(array)-2) 
 # update left +=1 and right -=1 when currentSum==TwoSum, instead of using break.
 # If using break, the other potential solution will be omitted
+
