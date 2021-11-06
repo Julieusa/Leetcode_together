@@ -1,5 +1,4 @@
 ## Three number sum
-
 ## O(n^3)
 def threeNumberSum(array, targetSum):
 	array.sort()
