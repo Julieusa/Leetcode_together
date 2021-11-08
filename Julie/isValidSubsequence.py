@@ -9,3 +9,13 @@ def isValidSubsequence(array, sequence):
 
 # use two index variables to help comparing 
 # Because the subsequence suppose to have the same order, the arrIdx just keep moving to the next element.
+
+def isValidSubsequence(array, sequence):
+	seqIdx = 0
+	for value in array:
+		if seqIdx == len(sequece): # finished loop over the sequence
+			break # jump out the loop
+		if sequence[seqIdx] == value:
+			seqIdx += 1
+	return seqIdx == len(sequence)
+
