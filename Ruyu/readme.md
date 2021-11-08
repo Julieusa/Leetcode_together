@@ -1,1 +1,1 @@
-Ruyu do algorithm and SQL here
+Ruyu do algorithm (easy leetcode level) and SQL here
