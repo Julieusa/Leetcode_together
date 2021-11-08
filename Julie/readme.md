@@ -7,4 +7,5 @@
       Modify code for three number sum to get optimal solution O(n^2). Review Validate Subsequence. The key is fixing the value from array, compare each of the elements in the sequence.
  ### Day 3(11/07/2021): 
       Sorted Square Array. Use inner function to get O(nlogn) in time but we can get O(n) by using manual sort similarly to two number sum. 
+      Find smallest difference element from two given array. 
  
