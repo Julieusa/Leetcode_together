@@ -18,6 +18,8 @@
 	- Hash Table
 	- Sorting
 
+- By Leetcode Daliy Challange: [Data Structure I](https://leetcode.com/study-plan/data-structure/?progress=o1wzxrs)
+
 - By frequency:
 (after subscrip)
 
