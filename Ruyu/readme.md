@@ -1,6 +1,6 @@
 ## Do algorithm (easy leetcode level):
 ##### Data structure: 
-      array, hash table, tuple, string, list, linked list (so far)
+      array, subarray, hash table, tuple, string, list, linked list (so far)
 ##### Method: 
      binary search
 
