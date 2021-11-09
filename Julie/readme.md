@@ -8,4 +8,8 @@
  ### Day 3(11/07/2021): 
       Sorted Square Array. Use inner function to get O(nlogn) in time but we can get O(n) by using manual sort similarly to two number sum. 
       Find smallest difference element from two given array. 
+ ### Day 4(11/08/2021): 
+      Non-Constructible Change. When current coin value greater than the currentchangeCreated+1, we can't make the change. This logic need to be digested. 
+      Move Element to End. The key is using two index, one in the front and the other one in the end.Use this array[i], array[j] = array[j], array[i] to swap two         element.
+      
  
