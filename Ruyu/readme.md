@@ -2,7 +2,7 @@
 ##### Data structure: 
       array, subarray, hash table, tuple, string, list, linked list (so far)
 ##### Method: 
-     binary search
+     binary search, dynamic programming
 
 ## SQL: 
     Sql cookbook pivot, window function, do not use subquery, group by, self join and do leetcode sql 
