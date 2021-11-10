@@ -1,3 +1,6 @@
+## Questions for DS:
+https://github.com/kojino/120-Data-Science-Interview-Questions
+https://github.com/JifuZhao/120-DS-Interview-Questions
 ## Do algorithm (easy leetcode level):
 ##### Data structure: 
       array, subarray, hash table, tuple, string, list, linked list (so far)
@@ -45,5 +48,5 @@ K-nearest neighbor: 也就是collaborative filtering最简单的实现方法, �
 Matrix Factorization: 综合item & user全部信息进行推荐, 精度较高. 但每次计算比较耗时, 不便于实时更新.
 Neural Network: 可以整合更多user profile信息进入模型, 是比Matrix Factorization更加通用的方法, 计算精度更高. 但是模型更加复杂, 做实时预测时会有一些延时或者需要较多computation resource.
 
-
+## Naive Bayes classifier
 
