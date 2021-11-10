@@ -10,6 +10,9 @@
       Find smallest difference element from two given array. 
  ### Day 4(11/08/2021): 
       Non-Constructible Change. When current coin value greater than the currentchangeCreated+1, we can't make the change. This logic need to be digested. 
-      Move Element to End. The key is using two index, one in the front and the other one in the end.Use this array[i], array[j] = array[j], array[i] to swap two         element.
-      
+      Move Element to End. The key is using two index, one in the front and the other one in the end.Use this array[i], array[j] = array[j], array[i] to swap two         element.  
+ ### Day 5(11/09/2021): 
+      Monotonic Array
+      Spiral Traverse
+      Figure out the simple construction rule is important 
  
