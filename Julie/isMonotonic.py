@@ -23,3 +23,15 @@ def breaksDirection(direction, previousInt, currentInt):
 	return diff >0 # Otherwise direction<0 we need diff>0 
 		
 			
+##### Using Flag ####
+def isMonotonic(array):
+	isNonDecreasing = True
+	isNonIncreasing = True
+	for i in range(1, len(array)):
+		if array[i] < array[i-1]: # posibblely nonIncreasing 
+			isNonDecreasing = False
+		if array[i] > array[i-1]: #possiblely nonDecreasing 
+			isNonIncreasing = False
+		
+	return isNonDecreasing or isNonIncreasing
+
