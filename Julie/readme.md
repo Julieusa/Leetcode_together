@@ -23,12 +23,12 @@ Monotonic Array: learn to use a flag
 Spiral Traverse
 
  ### Day 6(11/10/2021):
-Q1.Looking for missing numbers: Learn to read the standard input stream (console)by using input() and transform it to certain type. 
+Looking for missing numbers: Learn to read the standard input stream (console)by using input() and transform it to certain type. 
 1. Using split() and Map(): 
 Split() function helps in getting multiple inputs from users. It breaks the given input by the specified separator. If a separator is not provided then any white space is a separator. Generally, users use a split() method to split a Python string but one can use it in taking multiple inputs.
 Map() function returns a map object(which is an iterator) of the results after applying the given function to each item of a given iterable.Use the Python Map Function to transform the list of strings to a list of integers.
 
-Q2.Find all prime numbers in [1,n]
+Find all prime numbers in [1,n]
 
  
 
