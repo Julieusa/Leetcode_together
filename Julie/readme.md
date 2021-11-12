@@ -29,7 +29,9 @@ Split() function helps in getting multiple inputs from users. It breaks the give
 Map() function returns a map object(which is an iterator) of the results after applying the given function to each item of a given iterable.Use the Python Map Function to transform the list of strings to a list of integers.
 
 Find all prime numbers in [1,n]
+
  ### Day 7(11/11/2021):
 Find the longest peak length
+
  
 
