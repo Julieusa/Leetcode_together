@@ -30,8 +30,8 @@ Map() function returns a map object(which is an iterator) of the results after a
 
 Find all prime numbers in [1,n]
 
-### Day 7(11/10/2021):
-Find the longest peak
+ ### Day 7(11/11/2021):
+Find the longest peak length
 
  
 
