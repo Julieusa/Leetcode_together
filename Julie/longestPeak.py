@@ -15,8 +15,9 @@ def longestPeak(array):
 		while leftIdx >= 0 and array[leftIdx] < array[leftIdx+1]:
 			leftIdx-=1
 		rightIdx=i+2
-		while rightIdx < len(array) and array[rightIdx] < array[rightIdx]:
+		while rightIdx < len(array) and array[rightIdx] < array[rightIdx-1]:
 			rightIdx+=1
+			
 		currentPeakLength = rightIdx - leftIdx -1
 		longestPeakLength = max(longestPeakLength, currentPeakLength)
 		i = rightIdx
