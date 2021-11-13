@@ -3,9 +3,11 @@ https://github.com/kojino/120-Data-Science-Interview-Questions
 https://github.com/JifuZhao/120-DS-Interview-Questions
 ## Do algorithm (easy leetcode level):
 ##### Data structure: 
-      array, subarray, hash table, tuple, string, list, linked list (so far)
+      array, subarray, hash table, tuple, string, list, linked list, stack (push, pop);
+      Tree: a tree is a widely used abstract data type that simulates a hierarchical tree structure, with a root value and subtrees of children with a parent node, represented as a set of linked nodes.
+      Binary tree: is a tree data structure in which each node has at most two children, which are referred to as the left child and the right child.
 ##### Method: 
-     binary search, dynamic programming
+     binary search, dynamic programming, BFS, DFS
 #### Python tools:
      NumPy: provides a high-performance multidimensional array object, and tools for working with these arrays. https://www.kausalvikash.in/python-numpy-interview-questions-and-answers-for-freshers/
      Pandas: Pandas provide two data structures: Series, and DataFrames. Memory Efficient; Data Alignment; Reshaping; Merge and join; Time Series. https://www.kaggle.com/getting-started/119445
