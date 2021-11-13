@@ -33,5 +33,5 @@ Find all prime numbers in [1,n]
  ### Day 7(11/11/2021):
 Find the longest peak length
 
- 
-
+ ### Day 8(11/12/2021):
+Find the product of array
