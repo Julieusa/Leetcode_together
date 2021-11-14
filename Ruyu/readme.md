@@ -6,6 +6,8 @@ https://github.com/JifuZhao/120-DS-Interview-Questions
       array, subarray, hash table, tuple, string, list, linked list, stack (push, pop);
       Tree: a tree is a widely used abstract data type that simulates a hierarchical tree structure, with a root value and subtrees of children with a parent node, represented as a set of linked nodes.
       Binary tree: is a tree data structure in which each node has at most two children, which are referred to as the left child and the right child.
+      A height-balanced binary tree: is a binary tree in which the depth of the two subtrees of every node never differs by more than one.
+
 ##### Method: 
      binary search, dynamic programming, BFS, DFS
 #### Python tools:
