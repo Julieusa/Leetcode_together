@@ -36,7 +36,7 @@ def arrayOfProducts(array):
 	return products
 
 
-###### O(n) time
+###### O(n) time, O(n) space
 def arrayOfProducts(array):
 	products = [1 for _ in range(len(array))] 
 	leftProducts = [1 for _ in range(len(array))] 
@@ -58,6 +58,25 @@ def arrayOfProducts(array):
 		products[i]=leftProducts[i]*rightProducts[i]
 		
 	return products
+
+###### O(n) space, O(n) time 
+def arrayOfProducts(array):
+	products = [1 for _ in range(len(array))]
+	
+	leftRunningProduct =1
+	for i in range(len(array)):
+		products[i] = leftRunningProduct
+		leftRunningProduct *= array[i]
+		
+		rightRunningProduct =1
+	for i in reversed(range(len(array))):
+		products[i] *= rightRunningProduct
+		rightRunningProduct *= array[i]
+
+	return products
+
+# The difference from solution 2 is : This one doesn't save the left and right product 
+# but multipy it dirrect to the array. Saved a little bit space. 
 	
 	
 
