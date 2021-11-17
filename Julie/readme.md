@@ -50,3 +50,6 @@ Learn to sort an array by a key parameter.
  ### Day 11(11/15/2021):
 Four number sum.
 Consider about adding two number sum
+
+ ### Day 11(11/15/2021):
+Write a function that takes in an array of at least two integers and that returns an array of the starting and ending indices of the smallest subarray in the input array that needs to be sorted in place in order for the entire input array tp be sorted.
