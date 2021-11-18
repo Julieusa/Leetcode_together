@@ -51,5 +51,10 @@ Learn to sort an array by a key parameter.
 Four number sum.
 Consider about adding two number sum
 
- ### Day 11(11/15/2021):
+ ### Day 12(11/16/2021):
 Write a function that takes in an array of at least two integers and that returns an array of the starting and ending indices of the smallest subarray in the input array that needs to be sorted in place in order for the entire input array tp be sorted.
+
+ ### Day 13(11/17/2021):
+ Write a function that takes in an array of integers and returns an array of length 2 representing the largest range of integres contained in that array.
+ 
+ Need to use the hash table again. 
