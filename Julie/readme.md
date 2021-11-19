@@ -58,3 +58,9 @@ Write a function that takes in an array of at least two integers and that return
  Write a function that takes in an array of integers and returns an array of length 2 representing the largest range of integres contained in that array.
  
  Need to use the hash table again. 
+
+ ### Day 13(11/18/2021):
+ Write a function that takes in a list of scores and returns the Minimum number of rewards that you must give out to students to satisfy the two rules.
+ 1. All studetns must receive at least one reward.
+ 2. Any given students must receive strictly more rewards than an adjacent students( a student immediately to the left or to the right) with a lower score and must receive strictly fewer rewards than an adjacent student with a higher score. 
+ Understand the second rule is important. 
