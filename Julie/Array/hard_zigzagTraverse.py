@@ -1,3 +1,7 @@
+
+=======
+###### O(n) time | O(n) space ######
+
 def zigzagTraverse(array):
 	height = len(array)-1 # equal to row number
 	width = len(array[0])-1 # equal to column number
