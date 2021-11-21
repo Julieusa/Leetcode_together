@@ -68,6 +68,7 @@ Write a function that takes in an array of at least two integers and that return
  ### Day 13(11/19/2021):
  Redo minmum reward question. 
 
+
  ### Day 14(11/21/2021):
 Zigzag order starts at the top left corner of the two-dimensional array, goes down by one element, and proceeds in a zigzag parttern all the way to the bottom right corner. 
 
