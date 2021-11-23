@@ -59,17 +59,24 @@ Write a function that takes in an array of at least two integers and that return
  
  Need to use the hash table again. 
 
- ### Day 13(11/18/2021):
+ ### Day 14(11/18/2021):
  Write a function that takes in a list of scores and returns the Minimum number of rewards that you must give out to students to satisfy the two rules.
  1. All studetns must receive at least one reward.
  2. Any given students must receive strictly more rewards than an adjacent students( a student immediately to the left or to the right) with a lower score and must receive strictly fewer rewards than an adjacent student with a higher score. 
  Understand the second rule is important. 
  
- ### Day 13(11/19/2021):
+ ### Day 15(11/20/2021):
  Redo minmum reward question. 
 
-
- ### Day 14(11/21/2021):
+ 
+ ### Day 16(11/21/2021):
+ Zigzag traverse:
 Zigzag order starts at the top left corner of the two-dimensional array, goes down by one element, and proceeds in a zigzag parttern all the way to the bottom right corner. 
 
 Figure out the partern for the index changing is important. In general, separate them to two way, one is go down-left and the other one is go up-right. Then need to consider the border case. 
+
+ ### Day 17(11/22/2021):
+ Fnd the max sum of non-adjacent elemnets. Understand the skills for Dynamic programming, it's bottom-up pattern.
+ Max(i) = max{max(i-1), max(i-2)+current elements}
+
+
