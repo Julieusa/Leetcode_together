@@ -20,9 +20,10 @@
 	- Sorting
 
 - By Leetcode Daliy Challange: [Data Structure I](https://leetcode.com/study-plan/data-structure/?progress=o1wzxrs)
+- By study: [Dynamic programing](https://leetcode.com/explore/learn/card/dynamic-programming/)
 
 - By frequency:
-(after subscrip)
+subcrib a year from Nov 22 2021
 
 - By company:
 
