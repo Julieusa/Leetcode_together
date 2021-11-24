@@ -78,5 +78,10 @@ Figure out the partern for the index changing is important. In general, separate
  ### Day 17(11/22/2021):
  Fnd the max sum of non-adjacent elemnets. Understand the skills for Dynamic programming, it's bottom-up pattern.
  Max(i) = max{max(i-1), max(i-2)+current elements}
+  
+ ### Day 18(11/23/2021):
+ Find the number of ways to make changes for the target amount using the given coin denominations.
+ 		if denom <= amount: 
+				ways[amount] += ways[amount-denom]
 
 
