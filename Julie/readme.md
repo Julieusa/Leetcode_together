@@ -83,5 +83,10 @@ Figure out the partern for the index changing is important. In general, separate
  Find the number of ways to make changes for the target amount using the given coin denominations.
  		if denom <= amount: 
 				ways[amount] += ways[amount-denom]
+				
+				
+### Day 19(11/24/2021)
+Find the minimum number of coins to make a change for the target amount using the given coin denominations. 
+In order to compare with last question, I merge the solution to the same file.  
 
 
