@@ -89,4 +89,8 @@ Figure out the partern for the index changing is important. In general, separate
 Find the minimum number of coins to make a change for the target amount using the given coin denominations. 
 In order to compare with last question, I merge the solution to the same file.  
 
+### Day 20(11/28/2021)
+Write a function that takes in two strings and returns the minimum number of edit operations that need to be performed on the forst string to obtain the second string. 
+
+At any position (i,j) in the two-dimensional array, if str2[i] is equal to str1[j], then the edit distance at position(i,j) is equal to the one at position (i-1, j-1), since adding str2[i] and str1[j] to the substrings represented at position (i-1, j-1) does not require any additional edit operation. if str2[i] is not equal to str1[j], then the edit distance at position (i, j) is equal to 1+the minimum of the edit distances at positions (i-1, j), (i, j-1), (i-1,j-1). 
 
