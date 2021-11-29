@@ -93,4 +93,6 @@ In order to compare with last question, I merge the solution to the same file.
 Write a function that takes in two strings and returns the minimum number of edit operations that need to be performed on the forst string to obtain the second string. 
 
 At any position (i,j) in the two-dimensional array, if str2[i] is equal to str1[j], then the edit distance at position(i,j) is equal to the one at position (i-1, j-1), since adding str2[i] and str1[j] to the substrings represented at position (i-1, j-1) does not require any additional edit operation. if str2[i] is not equal to str1[j], then the edit distance at position (i, j) is equal to 1+the minimum of the edit distances at positions (i-1, j), (i, j-1), (i-1,j-1). 
+<img width="543" alt="Screen Shot 2021-11-28 at 5 42 41 PM" src="https://user-images.githubusercontent.com/30751636/143826203-81e24940-4157-48f8-a995-bc7da1bc891a.png">
+
 
