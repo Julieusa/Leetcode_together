@@ -97,3 +97,13 @@ At any position (i,j) in the two-dimensional array, if str2[i] is equal to str1[
 
 ### Day 21(11/29/2021)
 Modify levenshteinDistance.py for a better solution. We only need to store two rowes in the process of updating 
+
+
+### Day 22(12/2/2021)
+Find the number of ways to reach the bottom right corner of the given grid-shaped, rectangular graph.
+Three methods: recursive, dynamical programming, useing math idea of permutatons 
+
+Start 2 weeks study plan for algorithm 1 on Leetcode:
+  Day 1: Binary search, First Bad Version, Search Insert Position 
+
+
