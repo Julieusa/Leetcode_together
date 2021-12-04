@@ -106,4 +106,6 @@ Three methods: recursive, dynamical programming, useing math idea of permutatons
 Start 2 weeks study plan for algorithm 1 on Leetcode:
   Day 1: Binary search, First Bad Version, Search Insert Position 
 
-
+### Day 23(12/3/2021)
+2 weeks study plan for algorithm 1 on Leetcode:
+  Day 2: Two Pointers:Squares of a Sorted Array,  Rotate Array
