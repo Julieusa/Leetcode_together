@@ -109,3 +109,7 @@ Start 2 weeks study plan for algorithm 1 on Leetcode:
 ### Day 23(12/3/2021)
 2 weeks study plan for algorithm 1 on Leetcode:
   Day 2: Two Pointers:Squares of a Sorted Array,  Rotate Array
+
+### Day 24(12/4/2021)
+2 weeks study plan for algorithm 1 on Leetcode:
+  Day 3:  Two Pointers: Move zeros,  Two sum
