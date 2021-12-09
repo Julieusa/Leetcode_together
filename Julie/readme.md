@@ -117,3 +117,11 @@ Start 2 weeks study plan for algorithm 1 on Leetcode:
 ### Day 25(12/5/2021)
 2 weeks study plan for algorithm 1 on Leetcode:
   Day 4:  Two Pointers: Reverse string, reverse words in a string for a sentence 
+
+### Day 25(12/8/2021)
+2 weeks study plan for algorithm 1 on Leetcode:
+  Day 6:  Sliding Window
+  Need to learn more about string!! 
+  Day 5 is List, I don't know how to use it. 
+  
+  
