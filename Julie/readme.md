@@ -124,4 +124,7 @@ Start 2 weeks study plan for algorithm 1 on Leetcode:
   Need to learn more about string!! 
   Day 5 is List, I don't know how to use it. 
   
-  
+### Day 26(12/8/2021)
+2 weeks study plan for algorithm 1 on Leetcode:
+  Day 7:  Breadth-First Search / Depth-First Search
+  Use recurceive or iterative(better), the second question need use Stack!
