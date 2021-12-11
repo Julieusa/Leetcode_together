@@ -128,3 +128,11 @@ Start 2 weeks study plan for algorithm 1 on Leetcode:
 2 weeks study plan for algorithm 1 on Leetcode:
   Day 7:  Breadth-First Search / Depth-First Search
   Use recurceive or iterative(better), the second question need use Stack!
+
+### Day 27(12/9/2021)
+2 weeks study plan for algorithm 1 on Leetcode:
+  Day 8 is about DFS/BFS for trees. I don't understant those. Need to learn.
+  Day 9:  Given an m x n binary matrix mat, return the distance of the nearest 0 for each cell. This question is interesting but I don't really understand the solution. Need to be figured out. 
+  
+  
+      Use Dynamic programing. 
