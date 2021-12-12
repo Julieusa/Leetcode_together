@@ -124,15 +124,17 @@ Start 2 weeks study plan for algorithm 1 on Leetcode:
   Need to learn more about string!! 
   Day 5 is List, I don't know how to use it. 
   
-### Day 26(12/8/2021)
+### Day 26(12/9/2021)
 2 weeks study plan for algorithm 1 on Leetcode:
   Day 7:  Breadth-First Search / Depth-First Search
   Use recurceive or iterative(better), the second question need use Stack!
 
-### Day 27(12/9/2021)
+### Day 27(12/10/2021)
 2 weeks study plan for algorithm 1 on Leetcode:
   Day 8 is about DFS/BFS for trees. I don't understant those. Need to learn.
   Day 9:  Given an m x n binary matrix mat, return the distance of the nearest 0 for each cell. This question is interesting but I don't really understand the solution. Need to be figured out. 
-  
-  
       Use Dynamic programing. 
+      
+### Day 27(12/11/2021)
+2 weeks study plan for algorithm 1 on Leetcode:     
+  Day 10: Iteration or recursion for linked list. Learn how to use list and change pointer. Need to practice more for linked list structure. 
