@@ -144,6 +144,14 @@ Start 2 weeks study plan for algorithm 1 on Leetcode:
  Design a linked list and hash table(HashSet and HashMap).
  ![image](https://user-images.githubusercontent.com/30751636/147639713-ef6f2c15-3e67-431b-aaed-2bec86f6f08c.png)
 
- Pratical application of HashSet: duplicate number, single number, Intersection of two arrays, Happy number(*).https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1131/
+ Pratical application of HashSet: contain duplicates(only duplicate), single number, Intersection of two arrays(*, return unique element), Happy number(*).https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1131/
  
- 
+ ### Day 29(12/29/2021) 
+Pratical application of HashMap:
+  Two Sum: each element can only be used once
+  Contain Duplicates II (duplicates in given k distance), 
+  Intersection of two arrays II (*, return all common elements which might not be unique)
+  Isomorphic Strings: need to build map between two strings. 
+        zip(s, t):use in for loop, return iterate same index pair like (s[0], t[0]), (s[1], t[1]), (s[2], t[2])...
+  First Unique Character in a String
+        collections.Counter(s:string):A Counter is a dict subclass for counting hashable objects. It is a collection where elements are stored as dictionary keys and their counts are stored as dictionary values.
