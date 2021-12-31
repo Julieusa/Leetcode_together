@@ -155,3 +155,11 @@ Pratical application of HashMap:
         zip(s, t):use in for loop, return iterate same index pair like (s[0], t[0]), (s[1], t[1]), (s[2], t[2])...
   First Unique Character in a String
         collections.Counter(s:string):A Counter is a dict subclass for counting hashable objects. It is a collection where elements are stored as dictionary keys and their counts are stored as dictionary values.
+	
+ ### Day 30(12/30/2021)
+ Practical Application - Design the Key:
+   Group Anagrams:# The use of collections.defaultdict
+   Collections:  It's a module that implements specialized container datatypes providing alternatives to Python’s general purpose built-in containers, dict, list, set, and tuple.
+   Defaultdict(type):a Python dictionary throws a KeyError if you try to get an item with a key that is not currently in the dictionary.  The defaultdict in contrast will simply create any items that you try to access (provided of course they do not exist yet). The "default" is created by the defined type, e.g list if given type=list. 
+   Tuple: Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Set, and Dictionary, all with different qualities and usage.
+   Tuples are used to store multiple items in a single variable. Tuple items can be of any data type 
