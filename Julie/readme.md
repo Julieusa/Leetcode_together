@@ -158,8 +158,30 @@ Pratical application of HashMap:
 	
  ### Day 30(12/30/2021)
  Practical Application - Design the Key:
-   Group Anagrams:# The use of collections.defaultdict
-   Collections:  It's a module that implements specialized container datatypes providing alternatives to Python’s general purpose built-in containers, dict, list, set, and tuple.
-   Defaultdict(type):a Python dictionary throws a KeyError if you try to get an item with a key that is not currently in the dictionary.  The defaultdict in contrast will simply create any items that you try to access (provided of course they do not exist yet). The "default" is created by the defined type, e.g list if given type=list. 
-   Tuple: Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Set, and Dictionary, all with different qualities and usage.
-   Tuples are used to store multiple items in a single variable. Tuple items can be of any data type 
+ Group Anagrams:# The use of collections.defaultdict
+ Collections:  It's a module that implements specialized container datatypes providing alternatives to Python’s general purpose built-in containers, dict, list, set, and tuple.
+ ![image](https://user-images.githubusercontent.com/30751636/147867330-db39389c-c57a-40cf-98c5-cac0d92f626e.png)
+
+ Defaultdict(type):a Python dictionary throws a KeyError if you try to get an item with a key that is not currently in the dictionary.  The defaultdict in contrast will simply create any items that you try to access (provided of course they do not exist yet). The "default" is created by the defined type, e.g list if given type=list. 
+ Tuple: Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Set, and Dictionary, all with different qualities and usage.
+ Tuples are used to store multiple items in a single variable. Tuple items can be of any data type 
+   
+ ### Day 31(12/31/2021)
+ Linked list :https://leetcode.com/explore/learn/card/linked-list/
+ To get a value in the linked list, we need to start from the head to search it.
+ ![image](https://user-images.githubusercontent.com/30751636/147867479-932924f4-505f-49b5-8f29-19f972874c42.png)
+ Singly linked list: It has two attributes val and next.
+ Two pointer technique: Circle in linked list, Intersection of two linked lists(*), Remove the nth node from the linked list(*)
+ ![image](https://user-images.githubusercontent.com/30751636/147867497-47c388a5-3928-4570-835b-1b77704dc5f3.png)
+ 
+  ### Day 32(1/1/2022)
+  Classical problems for linked list
+  Reversed linked list: Need use two pointer.  A node does not have reference to its previous node, you must store its previous element beforehand. You also need another pointer to store the next node before changing the reference. 
+  Remove linked list element:  Add one sentinel node as a sudo-head to make the remove easier. 
+  Odd-Even linked list: Seperate it to two lists as oddlist and evenlist then combine them. 
+  Palindrome Linked List: Copying the linked list into an array then use two pointer(one for the head the other one for the tail), loop through middle element.
+  Doubly linked List: It has one more refence field as "Prev", it makes delete element easier. We no longer need to traverse the linked list to get the previous node, both the time and space complexity are O(1).
+  
+
+ 
+ 
