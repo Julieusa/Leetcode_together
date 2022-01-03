@@ -174,6 +174,7 @@ Pratical application of HashMap:
  Two pointer technique: Circle in linked list, Intersection of two linked lists(*), Remove the nth node from the linked list(*)
  ![image](https://user-images.githubusercontent.com/30751636/147867497-47c388a5-3928-4570-835b-1b77704dc5f3.png)
  
+ 
   ### Day 32(1/1/2022)
   Classical problems for linked list
   Reversed linked list: Need use two pointer.  A node does not have reference to its previous node, you must store its previous element beforehand. You also need another pointer to store the next node before changing the reference. 
@@ -183,5 +184,6 @@ Pratical application of HashMap:
   Doubly linked List: It has one more refence field as "Prev", it makes delete element easier. We no longer need to traverse the linked list to get the previous node, both the time and space complexity are O(1).
   
 
- 
- 
+ ### Day 33(1/2/2022)
+   Conclusion problems for linked list:
+   Merge Two sorted list, Add two numbers: always create a new LinkNode and a pointer, one for update solution linked list, the other one as a pointer to current node. Be careful the solution will return head.next, since the head is psudo head. 
