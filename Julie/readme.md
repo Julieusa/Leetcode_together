@@ -187,3 +187,7 @@ Pratical application of HashMap:
  ### Day 33(1/2/2022)
    Conclusion problems for linked list:
    Merge Two sorted list, Add two numbers: always create a new LinkNode and a pointer, one for update solution linked list, the other one as a pointer to current node. Be careful the solution will return head.next, since the head is psudo head. 
+   
+ ### Day 34(1/3/2022)  
+   Review linked list, start recursion algorithm to prepare for dynamic programming algorithm. 
+   https://leetcode.com/explore/learn/card/recursion-i/
