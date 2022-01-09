@@ -191,3 +191,11 @@ Pratical application of HashMap:
  ### Day 34(1/3/2022)  
    Review linked list, start recursion algorithm to prepare for dynamic programming algorithm. 
    https://leetcode.com/explore/learn/card/recursion-i/
+ 
+  ### Day 35(1/4/2022)
+  Fibonacci number: recursive method -> bottom-up method(use an array to store all results, O(n) time, O(n) space) -> iterative bottom-up( use two variable to store two step results O(n) time, O(1) space )-> Matrix Exponnentiation method (O(logn) time and space)
+  Climbing stairs(*): lot of methods! Understand the recursive tree(decision tree) structure. Fibonacci number can apply here.
+  
+  
+      
+ 
