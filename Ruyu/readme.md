@@ -15,6 +15,8 @@ https://github.com/JifuZhao/120-DS-Interview-Questions
      Pandas: Pandas provide two data structures: Series, and DataFrames. Memory Efficient; Data Alignment; Reshaping; Merge and join; Time Series. https://www.kaggle.com/getting-started/119445
      scikit-learn:
 
+### Dynamic Programming all levels since mid Dec
+
 ## SQL: 
     Sql cookbook pivot, window function, do not use subquery, group by, self join and do leetcode sql 
 ## overfitting: 
