@@ -196,6 +196,8 @@ Pratical application of HashMap:
   Fibonacci number: recursive method -> bottom-up method(use an array to store all results, O(n) time, O(n) space) -> iterative bottom-up( use two variable to store two step results O(n) time, O(1) space )-> Matrix Exponnentiation method (O(logn) time and space)
   Climbing stairs(*): lot of methods! Understand the recursive tree(decision tree) structure. Fibonacci number can apply here.
   
-  
+  ### Day 36(1/18/2022)
+  Daily challenge:  605. Can Place Flowers, consider maximum case, use brute force. Only need to think about the adjcent numbers.
+  Calculate the power for numbers use recursion: use fast power algorithm is better. 
       
  
