@@ -200,4 +200,5 @@ Pratical application of HashMap:
   Daily challenge:  605. Can Place Flowers, consider maximum case, use brute force. Only need to think about the adjcent numbers.
   Calculate the power for numbers use recursion: use fast power algorithm is better. 
       
- 
+  ### Day 37(1/19/2022)
+  191. Number of 1 Bits:"and" is a Logical AND that returns True if both the operands are true whereas ‘&’ is a bitwise operator in Python that acts on bits and performs bit by bit operation.
