@@ -9,7 +9,8 @@ https://github.com/JifuZhao/120-DS-Interview-Questions
       A height-balanced binary tree: is a binary tree in which the depth of the two subtrees of every node never differs by more than one.
 
 ##### Method: 
-     binary search, dynamic programming, BFS, DFS,two pointers
+     binary search, dynamic programming, BFS,two pointers
+     DFS: is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.
 #### Python tools:
      NumPy: provides a high-performance multidimensional array object, and tools for working with these arrays. https://www.kausalvikash.in/python-numpy-interview-questions-and-answers-for-freshers/
      Pandas: Pandas provide two data structures: Series, and DataFrames. Memory Efficient; Data Alignment; Reshaping; Merge and join; Time Series. https://www.kaggle.com/getting-started/119445
